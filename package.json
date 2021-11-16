@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "apisauce": "^0.15.2",
-    "aws-sdk": "2.177.0",
+    "aws-sdk": "2.814.0",
     "babel-eslint": "^8.2.6",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.2",
@@ -62,7 +62,7 @@
   },
   "resolutions": {
     "amazon-cognito-identity-js": "1.28.0",
-    "aws-sdk": "2.177.0"
+    "aws-sdk": "2.814.0"
   },
   "jest": {
     "preset": "react-native"
