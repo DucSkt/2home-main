@@ -13,7 +13,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.2",
     "lodash": "^4.17.10",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "prettier": "^1.14.2",
     "prop-types": "^15.6.2",
     "react": "16.4.1",
