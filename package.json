@@ -17,7 +17,7 @@
     "prettier": "^1.14.2",
     "prop-types": "^15.6.2",
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.70.2",
     "react-native-aws-cognito-js": "0.0.7",
     "react-native-button": "^2.3.0",
     "react-native-circular-progress": "^1.0.1",
